@@ -1,6 +1,8 @@
-Given a array with +ve and -ve integer , find the maximum sum such that you are not allowed to skip 2 contiguous elements ( i.e you have to select at least one of them to move forward).
+# Given a array with +ve and -ve integer , find the maximum sum such that you are not allowed to skip 2 contiguous elements ( i.e you have to select at least one of them to move forward).
 
-Solutions uses Dynamic-programming algorithm to find the maximum sum.
+Solution:
+
+Used Dynamic-programming algorithm to find the maximum sum.
 
 If arr is the given array and n is number of items in the array.
 For any index i < n, 
